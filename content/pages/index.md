@@ -73,7 +73,7 @@ sections:
             icon_position: right
         image: images/about-2.jpg
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: fifty
       - title: The Big Title For the Feature
         content: >-
